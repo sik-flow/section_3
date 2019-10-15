@@ -1,1 +1,1 @@
-# section_3
+Notebook used in video 
